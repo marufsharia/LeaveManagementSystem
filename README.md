@@ -1,3 +1,5 @@
+![LeaveManagementSystem/screenshot](https://https://github.com/marufsharia/LeaveManagementSystem/blob/master/screenshot/Screenshot_%20(1).png?raw=true)
+
 ================================Leave Management System============================
 
 This is a simple Leave management system which I made using C-Sharp (C#).It was my class assignment.  
