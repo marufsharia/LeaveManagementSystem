@@ -1,4 +1,4 @@
-![LeaveManagementSystem/screenshot](https://https://github.com/marufsharia/LeaveManagementSystem/blob/master/screenshot/Screenshot_%20(1).png?raw=true)
+![LeaveManagementSystem/screenshot](https://https://github.com/marufsharia/LeaveManagementSystem/blob/master/screenshot/Screenshot_%20(1).png)
 
 ================================Leave Management System============================
 
