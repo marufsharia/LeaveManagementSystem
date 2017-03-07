@@ -1,0 +1,23 @@
+F:\C#\VSStudio\sqlitedb\sqlitedb\bin\Debug\sqlitedb.exe.config
+F:\C#\VSStudio\sqlitedb\sqlitedb\bin\Debug\sqlitedb.exe
+F:\C#\VSStudio\sqlitedb\sqlitedb\bin\Debug\sqlitedb.pdb
+F:\C#\VSStudio\sqlitedb\sqlitedb\bin\Debug\System.Data.SQLite.dll
+F:\C#\VSStudio\sqlitedb\sqlitedb\bin\Debug\System.Data.SQLite.pdb
+F:\C#\VSStudio\sqlitedb\sqlitedb\obj\Debug\sqlitedb.csprojResolveAssemblyReference.cache
+F:\C#\VSStudio\sqlitedb\sqlitedb\obj\Debug\sqlitedb.Form1.resources
+F:\C#\VSStudio\sqlitedb\sqlitedb\obj\Debug\sqlitedb.Properties.Resources.resources
+F:\C#\VSStudio\sqlitedb\sqlitedb\obj\Debug\sqlitedb.csproj.GenerateResource.Cache
+F:\C#\VSStudio\sqlitedb\sqlitedb\obj\Debug\sqlitedb.exe
+F:\C#\VSStudio\sqlitedb\sqlitedb\obj\Debug\sqlitedb.pdb
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\bin\Debug\sqlitedb.exe.config
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\obj\Debug\sqlitedb.exe
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\obj\Debug\sqlitedb.pdb
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\obj\Debug\sqlitedb.csprojResolveAssemblyReference.cache
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\obj\Debug\sqlitedb.Form1.resources
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\obj\Debug\LeaveManagementSystem.frmContainer.resources
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\obj\Debug\sqlitedb.Properties.Resources.resources
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\obj\Debug\sqlitedb.csproj.GenerateResource.Cache
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\bin\Debug\sqlitedb.exe
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\bin\Debug\sqlitedb.pdb
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\bin\Debug\System.Data.SQLite.dll
+D:\OnlineBackupWorld\Dropbox\C# Project AIUB\sqlitedb\sqlitedb\bin\Debug\System.Data.SQLite.pdb
